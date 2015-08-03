@@ -1,0 +1,30 @@
+{
+  "uuid": "4a0db78f-4b87-4638-b48e-166b5f3b3bf3",
+  "shortName": "FireFox-White",
+  "longName": "FireFox WatchFace-White",
+  "companyName": "JohnnyWorks",
+  "versionLabel": "1.1",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "BG",
+        "file": "images/bg.png"
+      },
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      }
+    ]
+  }
+}
