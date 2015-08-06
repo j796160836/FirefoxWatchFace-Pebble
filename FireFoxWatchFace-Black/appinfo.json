@@ -1,9 +1,9 @@
 {
   "uuid": "76622a8c-7c29-41ba-9523-2c317191769a",
-  "shortName": "FireFox-Black",
-  "longName": "FireFox WatchFace-Black",
+  "shortName": "Firefox-Black",
+  "longName": "Firefox WatchFace-Black",
   "companyName": "JohnnyWorks",
-  "versionLabel": "1.0",
+  "versionLabel": "1.1",
   "sdkVersion": "3",
   "targetPlatforms": ["aplite", "basalt"],
   "watchapp": {
