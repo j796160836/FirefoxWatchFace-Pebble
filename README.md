@@ -1,6 +1,6 @@
 # FirefoxWatchFace-Pebble
 
-![Banner](https://raw.githubusercontent.com/j796160836/FirefoxWatchFace-Pebble/master/FireFoxWatchFace-Black/screenshot/banner.png =520x) 
+![Banner](https://raw.githubusercontent.com/j796160836/FirefoxWatchFace-Pebble/master/FireFoxWatchFace-Black/screenshot/banner.png) 
 
 Firefox style watchface.  
 Mozilla produces many products such as the Firefox, Thunderbird, Firefox OS.  
