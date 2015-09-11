@@ -53,3 +53,18 @@ pebble build
 	```
 pebble install --phone 192.168.1.2
 	```
+
+	
+----
+	
+## Related Project
+
+- FoxmosaWatchFace (AndroidWear)  
+[https://github.com/j796160836/FoxmosaWatchFace-AndroidWear](https://github.com/j796160836/FoxmosaWatchFace-AndroidWear)
+
+- FoxmosaWatchFace (Pebble)  
+[https://github.com/j796160836/FoxmosaWatchFace-Pebble](https://github.com/j796160836/FoxmosaWatchFace-Pebble)
+
+- FirefoxWatchFace (Pebble)  
+[https://github.com/j796160836/FirefoxWatchFace-Pebble](https://github.com/j796160836/FirefoxWatchFace-Pebble) 
+
