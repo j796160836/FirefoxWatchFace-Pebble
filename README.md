@@ -1,10 +1,12 @@
 # FirefoxWatchFace-Pebble
 
-![Banner](https://raw.githubusercontent.com/j796160836/FirefoxWatchFace-Pebble/master/FireFoxWatchFace-Black/screenshot/banner.png) 
+<img src="https://raw.githubusercontent.com/j796160836/FirefoxWatchFace-Pebble/master/FireFoxWatchFace-Black/screenshot/banner.png" width="600">  
 
 Firefox style watchface.  
 Mozilla produces many products such as the Firefox, Thunderbird, Firefox OS.  
 (Photo sketched by Jon Hicks Nov.2007 [concept logo](http://goo.gl/uJxgDU) )  
+
+<img src="https://raw.githubusercontent.com/j796160836/FirefoxWatchFace-Pebble/master/FireFoxWatchFace-White/screenshot/photo.jpg" width="400">  
 
 ## Download
 Apps is available on Pebble  
